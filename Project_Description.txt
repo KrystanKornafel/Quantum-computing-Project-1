@@ -1,0 +1,1 @@
+This project will based off the idea of quantum computing, and will bee developed in the Q# programming language.
